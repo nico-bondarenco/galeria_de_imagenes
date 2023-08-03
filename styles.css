@@ -23,9 +23,7 @@ p{
 }
 
 h2 {
-    margin: 0;
-    position: absolute;
-    left: 50%;
+    text-align: center;
 }
 
 .link-button:hover {
