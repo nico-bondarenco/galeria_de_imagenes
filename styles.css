@@ -20,6 +20,9 @@ p{
     padding: 5px;
     border-radius: 5px;
     box-shadow: 2px 3px #888888;
+}
+
+h2 {
     margin: 0;
     position: absolute;
     left: 50%;
@@ -36,7 +39,6 @@ p{
     margin: 0;
     position: absolute;
     left: 50%;
-=======
 }
 
 h1{
