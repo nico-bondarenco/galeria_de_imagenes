@@ -8,6 +8,10 @@ body {
     height: 400px;
 }
 
+p{
+    text-align: center;
+}
+
 .link-button {
     text-decoration: none;
     color: white;
