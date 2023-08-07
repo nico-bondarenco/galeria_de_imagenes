@@ -1,6 +1,8 @@
 body {
     background-color: turquoise;
     text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: italic;
 }
 
 .image{
